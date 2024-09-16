@@ -1,0 +1,7 @@
+1544942060,Imam Abdul Fatah,no,2024-06-12 20:03:24
+1544942060,Imam Abdul Fatah,<b>Jangan lupa makan bakso di jam 20:20!</b>,yes,2024-06-12 20:49:12
+6848795446,Jamal,<b>Selamat bergabung!</b>,yes,2024-06-12 20:51:50
+1544942060,Imam Abdul Fatah,<b>Sampai jumpa!</b>,no,2024-06-12 20:52:31
+7391471055,pulcher_id,yes,2024-06-19 18:03:14
+1544942060,Imam Abdul Fatah,yes,2024-06-19 23:13:13
+1544942060,Imam Abdul Fatah,yes,2024-06-19 23:15:06
